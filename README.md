@@ -6,5 +6,15 @@ Summer Trainee Student at CHARUSAT University. (MARCH 2019 - MAY 2019)
 - The libraries were made using Embedded C and Atmel Studio.
 
 ---
-**Submissions**
+**Documents**
 1. [Submitted Report](<E-yantra report.pdf>)
+2. [AVR Manual](Atmega2560Datasheet.pdf)
+3. [FireBird HW Manual](<Fire Bird V ATMEGA2560 Hardware Manual V1.08 2012-10-12.pdf>)
+4. [FireBird SW Manual](<Fire Bird V ATMEGA2560 Software Manual V1.00 15-08-20122012-.pdf>)
+5. [USB Prgrammer Manual](<AVR USB Programmer ManualV3.pdf>)
+
+---
+**Files**
+1. [Header File](firebirdv_atmega2560.h)
+2. [Function Definitions C File](firebirdv_atmega2560.c)
+3. [Main.c](GccApplication1.c)
